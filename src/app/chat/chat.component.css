@@ -1,0 +1,15 @@
+.content{
+  /* background-color: red; */
+  width: 100%;
+  height: 100vh;
+  margin-top: 15px;
+}
+.chat-conversation {
+  height: 72vh;
+}
+.chat-leftsidebar{
+  height: 98vh;
+}
+.chat-room-list {
+  max-height: 75vh;
+}
