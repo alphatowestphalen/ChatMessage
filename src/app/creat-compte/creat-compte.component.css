@@ -1,0 +1,16 @@
+form{
+  /* width: 12px; */
+
+  gap: 15px;
+}
+.formulaire{
+  display: flex;
+  gap: 12px;
+  justify-content: space-evenly;
+}
+.contLogin{
+  width: 53%;
+}
+.formulaire input{
+  width: 253px;
+}
